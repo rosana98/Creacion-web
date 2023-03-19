@@ -68,6 +68,7 @@ header {
 #hero .informacion-contenedor .informacion {
     margin-left: 20px;
     font-weight: bold;
+    width: calc(100% - 200px);
 }
 
 #hero .informacion-contenedor .informacion span {
@@ -106,10 +107,6 @@ main .social-icons .social-icon {
 
 main .social-icons #GitHub {
     background: #23272d;
-}
-
-main .social-icons #YouTube {
-    background: #f70000;
 }
 
 main .social-icons #Platzi {
